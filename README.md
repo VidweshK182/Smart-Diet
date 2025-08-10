@@ -17,7 +17,7 @@ The system calculates BMR (Basal Metabolic Rate) and TDEE (Total Daily Energy Ex
 **Clone the Repository**
 ```bash
 git clone https://github.com/VidweshK182/Smart-Diet
-cd diet-recommendation
+cd Diet-Recommendation System
 ```
 
 **Create Virtual Environment & Install Dependencies**
